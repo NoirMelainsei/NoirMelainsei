@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/2f/d1/27/2fd1278b190d4c3f293a4f3edb42304e.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/2f/d1/27/2fd1278b190d4c3f293a4f3edb42304e.jpg" width="20%">
 </p>
 
 <a href="https://noirmelainseii.atabook.org/">
