@@ -1,5 +1,5 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌾" height="22">
+  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
   
 </p> 
