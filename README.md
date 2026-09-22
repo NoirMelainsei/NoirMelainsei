@@ -2,18 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
 
-  
-
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="35">
-  <text x="250" y="23"
-        text-anchor="middle"
-        fill="#d6e5b5"
-        font-family="Arial, sans-serif"
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="35" viewBox="0 0 500 35">
+  <text x="250" y="23"    font-family="Arial, sans-serif"
         font-size="18">
-    ♡ ─────────────── ✦ ─────────────── ♡
+    ♡ ─────────────── 🌿 ─────────────── ♡
   </text>
 </svg>
-
 
 
 <a href="https://noirmelainsei.straw.page">
