@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[:ear_of_rice:]" height="20">
+  <img src="🌻" height="20">
   <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=" height="20">
 </p>
 
