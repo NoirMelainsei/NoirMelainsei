@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://i.pinimg.com/736x/47/61/ca/4761ca8a0730d9b96171b7ff4e6053ff.jpg)" height="20">
+  <img src="[:ear_of_rice:]" height="20">
   <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=" height="20">
 </p>
 
