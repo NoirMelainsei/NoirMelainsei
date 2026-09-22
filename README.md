@@ -2,9 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
 
-<p align="left">
-  <img src="https://readme-svg.vercel.app/api?text=%E2%99%A1%20%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%20%F0%9F%8C%BF%20%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%20%E2%99%A1&color=d6e5b5&size=18" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="35">
+  <text x="250" y="23"
+        text-anchor="middle"
+        fill="#d6e5b5"
+        font-family="Arial, sans-serif"
+        font-size="18">
+    ♡ ─────────────── ✦ ─────────────── ♡
+  </text>
+</svg>
+
 <a href="https://noirmelainsei.straw.page">
   <img src="https://img.shields.io/badge/ପ꒰*´꒳%60*꒱%20strawpage.-f5f1e6?style=flat-square&labelColor=d6e5b5&color=f5f1e6">
 </a>
