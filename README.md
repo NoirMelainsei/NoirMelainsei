@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
 
+  
+
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="35">
   <text x="250" y="23"
         text-anchor="middle"
@@ -11,6 +13,8 @@
     ♡ ─────────────── ✦ ─────────────── ♡
   </text>
 </svg>
+
+
 
 <a href="https://noirmelainsei.straw.page">
   <img src="https://img.shields.io/badge/ପ꒰*´꒳%60*꒱%20strawpage.-f5f1e6?style=flat-square&labelColor=d6e5b5&color=f5f1e6">
