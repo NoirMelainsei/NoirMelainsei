@@ -11,13 +11,11 @@
 
 <div align="center">
 
-<a href="https://noirmelainsei.straw.page">
-  <div style="display: inline-block; padding: 8px 20px; border: 2px solid #d6e5b5; border-radius: 20px; background-color: #f5f1e6; color: #9aaa78;">
-    ପ꒰*´꒳`*꒱ strawpage.
-  </div>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://noirmelainsei.straw.page">
+    <img src="https://img.shields.io/badge/ପ꒰*´꒳%60*꒱%20strawpage.-f5f1e6?style=for-the-badge&labelColor=d6e5b5" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/08/d3/8d/08d38d9c7ce2d6af34765d4a3327a935.jpg" width="300">
