@@ -2,10 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1&pause=1000&color=D6E5B5&center=true&vCenter=true&width=500&lines=♡+───────────────+🌿+───────────────+♡">
+<p style="color:#d6e5b5;">
+♡ ─────────────── 🌿 ─────────────── ♡
 </p>
-  
 
 <a href="https://noirmelainsei.straw.page">
   <img src="https://img.shields.io/badge/ପ꒰*´꒳%60*꒱%20strawpage.-f5f1e6?style=flat-square&labelColor=d6e5b5&color=f5f1e6">
