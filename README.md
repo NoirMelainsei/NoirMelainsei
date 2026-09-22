@@ -1,4 +1,3 @@
-![](https://komarev.com)
 
 
 <a href="https://noirmelainseii.atabook.org/">
