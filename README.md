@@ -14,12 +14,12 @@
 </a>
 
 
-<img src="https://i.pinimg.com/736x/d6/34/68/d63468c0aa63a112827536b5f35c6d32.jpg" width="300">
+<img src="https://i.pinimg.com/736x/d6/34/68/d63468c0aa63a112827536b5f35c6d32.jpg" width="500">
 </p>
 
 
 <p align="right">
-  <img src="https://i.pinimg.com/736x/46/86/c7/4686c7f4c74badf7f5bbeeb065e6b2e3.jpg" width="500">
+  <img src="https://i.pinimg.com/736x/46/86/c7/4686c7f4c74badf7f5bbeeb065e6b2e3.jpg" width="300">
 </p>
 
 
