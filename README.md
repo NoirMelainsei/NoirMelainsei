@@ -4,7 +4,7 @@
   &nbsp;
 
  ♡ ─────────────── 🌿 ─────────────── ♡
-
+<img src="https://i.pinimg.com/736x/ec/c6/76/ecc67652f26b5a62282c194269c4bf1c.jpg" width="80">
 <a href="https://noirmelainsei.straw.page">
   <img src="https://img.shields.io/badge/ପ꒰´꒳%60꒱%20strawpage.-f5f1e6?style=flat-square&labelColor=d6e5b5&color=f5f1e6">
 </a>
@@ -21,4 +21,3 @@
 </p>
 
 
-<img src="https://i.pinimg.com/736x/ec/c6/76/ecc67652f26b5a62282c194269c4bf1c.jpg" width="80">
