@@ -20,3 +20,13 @@
   <img src="https://i.pinimg.com/736x/08/d3/8d/08d38d9c7ce2d6af34765d4a3327a935.jpg" width="300">
 </p>
 
+
+<div align="center">
+  <a href="https://spotify-widgetify.vercel.app/link">
+    <img
+      src="https://spotify-widgetify.vercel.app/github?theme=ipod"
+      alt="Spotify Now Playing"
+      width="440"
+    />
+  </a>
+</div>
