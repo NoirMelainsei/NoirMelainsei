@@ -1,10 +1,6 @@
 <p>
-<p align="left">
-  <span style="
-    font-family: 'Trebuchet MS', Arial, sans-serif;
-    font-size: 16px;
-    color: #795D5E;
-  "> ◌ . . Viewers →  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
+⡞⠳⣄⣀⣠⠞⢷ ֹ۪
+  ◌ . . Viewers →  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
 
  ♡ ─────────────── 🌿 ─────────────── ♡
