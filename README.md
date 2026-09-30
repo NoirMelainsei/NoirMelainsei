@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=1&pause=1000&color=D6E5B5&center=false&vCenter=true&width=200&lines=wdaswadd" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=1&pause=1000&color=D6E5B5&center=false&vCenter=true&width=200&lines=⡞⠳⣄⣀⣠⠞⢷ ֹ۪ ౿ ݁  .  wdaswadd → " />
+</span>  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
+  &nbsp;
  ♡ ─────────────── 🌿 ─────────────── ♡
  
 <a href="https://noirmelainsei.straw.page">
