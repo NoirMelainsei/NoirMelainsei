@@ -3,7 +3,6 @@
 ౿ ݁  .  wdaswadd →  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
 
-<a href="https://hits.sh/github.com/NoirMelainsei/"><img alt="Hits" src="https://hits.sh/github.com/NoirMelainsei.svg?color=7f8c62&labelColor=a1a38d"/></a>
 
  ♡ ─────────────── 🌿 ─────────────── ♡
  
@@ -25,3 +24,8 @@
 </p>
 
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ue3jvdwxvtc4t5uhxchq4yridq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ue3jvdwxvtc4t5uhxchq4yridq&cover_image=true&theme=default&show_offline=true&background_color=747b5b&interchange=true&profanity=false&hide_remaster=false&bar_color=a3d185">
+  </a>
+</p>
