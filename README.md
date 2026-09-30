@@ -1,6 +1,7 @@
-<span style="background: linear-gradient(90deg, #d6e5b5, #f5f1e6, #795D5E, #d6e5b5); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  wdaswadd
-</span>  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
+⡞⠳⣄⣀⣠⠞⢷ ֹ۪
+<p>
+
+  ౿ ݁  .  wdaswadd →  </span>  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
 
 
