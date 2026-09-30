@@ -1,7 +1,9 @@
 ⡞⠳⣄⣀⣠⠞⢷ ֹ۪
 <p>
-౿ ݁  .  Viewers →  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
+౿ ݁  .  wdaswadd →  <img src="https://komarev.com/ghpvc/?username=NoirMelainsei&style=flat-square&color=d6e5b5&label=🌼" height="22">
   &nbsp;
+
+<a href="https://hits.sh/github.com/NoirMelainsei/"><img alt="Hits" src="https://hits.sh/github.com/NoirMelainsei.svg?color=7f8c62&labelColor=a1a38d"/></a>
 
  ♡ ─────────────── 🌿 ─────────────── ♡
  
